@@ -40,7 +40,6 @@ This project focuses on the assembly, annotation, and antimicrobial resistance (
 ├── results/               # Processed output files
 │   ├── salmonella.faa
 │   ├── amrfinder_results.tsv
-│   └── amrfinder_results_h58.tsv
 ├── workflow/              # Flowchart and command scripts
 │   ├── workflow_diagram.png
 │   └── commands_used.sh
