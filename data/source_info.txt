@@ -1,1 +1,3 @@
-
+Source: NCBI Sequence Read Archive (SRA)
+Organism: Salmonella enterica
+Type: Paired-end FASTQ files
