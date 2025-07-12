@@ -12,5 +12,5 @@ Planned steps:
 - [ ] SHAP/interpretability
 - [ ] Risk score visualization
 
-This will evolve into a full project deliverable — current focus is on rapid prototyping and model validation.
+This will evolve into a full project deliverable - current focus is on rapid prototyping and model validation.
 
