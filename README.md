@@ -1,5 +1,4 @@
-# bacterial_analysis
-# Salmonella enterica Genome Assembly and AMR Profiling
+# Salmonella Typhi AMR Profiling Pipeline
 
 This project focuses on the assembly, annotation, and antimicrobial resistance (AMR) profiling of a *Salmonella enterica* isolate using publicly available sequencing data from NCBI.
 
