@@ -3,7 +3,7 @@
 This project focuses on the assembly, annotation, and antimicrobial resistance (AMR) profiling of a *Salmonella enterica* isolate using publicly available sequencing data from NCBI.
 
 ## Workflow
-![Workflow](workflow_diagram/salmonella_workflow_final_aligned.png)
+![Workflow](workflow/salmonella_workflow_final_aligned.png)
 
 ## 🔬 Project Overview
 
