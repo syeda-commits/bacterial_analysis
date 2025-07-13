@@ -33,18 +33,3 @@ This project focuses on the assembly, annotation, and antimicrobial resistance (
 | Annotation          | Prokka           |
 | AMR Profiling       | AMRFinderPlus    |
 
-## 🧬 Folder Structure
-
-```bash
-.
-├── data/                  # Source files or NCBI reference
-│   └── source_info.txt    # NCBI accession or metadata
-├── results/               # Processed output files
-│   ├── salmonella.faa
-│   ├── amrfinder_results.tsv
-├── workflow/              # Flowchart and command scripts
-│   ├── workflow_diagram.png
-│   └── commands_used.sh
-├── proposal/              # ML risk score framework
-│   └── proposal_h58_AMR_score.md
-└── README.md
