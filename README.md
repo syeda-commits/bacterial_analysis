@@ -17,7 +17,7 @@ Analyzed AMR genes and proposed a machine learning framework for risk prediction
 - Predicted AMR genes using **AMRFinderPlus**.
 - Proposed a future ML-based Risk Score Framework for treatment guidance, leveraging AMR patterns in high-burden strains (e.g., H58).
 
-  Key outputs include:
+Key outputs include:
 - HTML reports (FastQC)
 - Annotated assemblies (Prokka)
 - AMR gene tables (AMRFinderPlus)
