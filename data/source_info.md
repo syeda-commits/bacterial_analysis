@@ -9,7 +9,6 @@ All analytical steps—including quality control, sequence assembly, filtering, 
 ### 📂 Dataset Info
 - **Organism**: *Salmonella enterica*
 - **Type**: Paired-end FASTQ reads
-- **SRA Accession**: See [`data/source_info.txt`](source_info.txt) for details
 
 > ⚠️ *This dataset was used solely for educational and research purposes.*
 
