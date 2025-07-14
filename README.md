@@ -17,6 +17,16 @@ Analyzed AMR genes and proposed a machine learning framework for risk prediction
 - Predicted AMR genes using **AMRFinderPlus**.
 - Proposed a future ML-based Risk Score Framework for treatment guidance, leveraging AMR patterns in high-burden strains (e.g., H58).
 
+  Key outputs include:
+- HTML reports (FastQC)
+- Annotated assemblies (Prokka)
+- AMR gene tables (AMRFinderPlus)
+- Assembly statistics (QUAST)
+
+## 💡 Prototype Concept
+
+Proposed a future machine learning–based **Risk Score Framework** to predict treatment failure in high-burden *Salmonella* strains (e.g., H58 lineage), based on AMR gene profiles and clinical metadata.
+
 ## 📁 Dataset
 
 - Source: [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra)
