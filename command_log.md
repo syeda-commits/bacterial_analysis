@@ -72,4 +72,4 @@ amrfinder -n filtered_contigs.fasta -o amr_output.tsv
 
 ---
 
-Would you like this turned into a **Nextflow** pipeline or a **flowchart diagram** for documentation or presentation?
+
