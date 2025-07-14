@@ -4,7 +4,7 @@ This pipeline was tested using paired-end sequencing data of *Salmonella enteric
 
 The raw sequencing data corresponds to an uncharacterized *Salmonella enterica* isolate. The dataset was publicly available through NCBI SRA, and the strain identity was intentionally withheld during the initial analysis to simulate an unbiased, real-world workflow for genome assembly, annotation, and AMR profiling.
 
-All analytical steps—including quality control, sequence assembly, filtering, annotation, and AMR gene detection—were performed independently by the researcher.
+All analytical steps including quality control, sequence assembly, filtering, annotation, and AMR gene detection were performed independently by the researcher.
 
 ### 📂 Dataset Info
 - **Organism**: *Salmonella enterica*
