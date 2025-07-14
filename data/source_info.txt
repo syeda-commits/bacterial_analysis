@@ -1,3 +1,9 @@
-Source: NCBI Sequence Read Archive (SRA)
-Organism: Salmonella enterica
-Type: Paired-end FASTQ files
+### Data Source
+
+- **Organism**: *Salmonella enterica*
+- **Source**: [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra)
+- **Accession Number**: SRRXXXXX (replace with your actual accession number)
+- **Type**: Paired-end FASTQ files
+- **Retrieved on**: [insert date]
+
+📂 View the full pipeline and code here: [GitHub Repository](https://github.com/yourusername/salmonella-pipeline)
