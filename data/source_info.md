@@ -1,7 +1,15 @@
 ## 🧬 Data Source
 
-This pipeline was tested using paired-end sequencing data of Salmonella enterica from the NCBI Sequence Read Archive (SRA).
+This pipeline was tested using paired-end sequencing data of *Salmonella enterica*, obtained from the [NCBI Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra).
 
-The raw sequencing data analyzed in this project corresponds to an uncharacterized strain of Salmonella enterica. The dataset was publicly available through NCBI SRA, but the strain identity was intentionally withheld at the start of the analysis to facilitate hands-on learning in genome assembly and annotation. All steps including identification, assembly, filtering, annotation, and AMR gene detection were performed independently by the researcher.
+The raw sequencing data corresponds to an uncharacterized *Salmonella enterica* isolate. The dataset was publicly available through NCBI SRA, and the strain identity was intentionally withheld during the initial analysis to simulate an unbiased, real-world workflow for genome assembly, annotation, and AMR profiling.
 
-> The data was used for educational and research purposes only.
+All analytical steps—including quality control, sequence assembly, filtering, annotation, and AMR gene detection—were performed independently by the researcher.
+
+### 📂 Dataset Info
+- **Organism**: *Salmonella enterica*
+- **Type**: Paired-end FASTQ reads
+- **SRA Accession**: See [`data/source_info.txt`](source_info.txt) for details
+
+> ⚠️ *This dataset was used solely for educational and research purposes.*
+
