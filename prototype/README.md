@@ -62,7 +62,7 @@ Baseline performance metrics to inform future model iterations.
 Train and tune an **XGBoost classifier** to account for potential nonlinear relationships and interaction effects between features.
 
 **Why it matters:**  
-XGBoost is robust to sparse and imbalanced data — common challenges in biological datasets.
+XGBoost’s ability to handle sparsity and class imbalance makes it particularly effective for complex biological datasets.
 
 **Expected Output:**  
 An optimized, higher-performing model to compare against the baseline.
@@ -99,15 +99,7 @@ Visual outputs enhance the accessibility of model insights, especially for non-t
 **Expected Output:**  
 Visualization assets to support communication, reporting, or dashboard integration.
 
----
 
-## 🌍 Long-Term Vision
-
-This prototype will evolve into a full-scale project focused on:
-
-- Validating predictions on diverse cohorts and species  
-- Building interpretable, generalizable tools for clinical and public health use  
-- Supporting real-time risk stratification and antimicrobial decision-making in genomics-informed care settings
 
 ---
 
